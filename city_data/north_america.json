@@ -1,123 +1,124 @@
-[
-  {
-    "city": "New York",
-    "price_per_m2_inner": 18631.26,
-    "price_per_m2_rural": 12887.36,
-    "average_price_per_m2": 15759.31
-  },
-  {
-    "city": "Los Angeles",
-    "price_per_m2_inner": 7642.50,
-    "price_per_m2_rural": 6831.70,
-    "average_price_per_m2": 14474.2
-  },
-  {
-    "city": "Chicago",
-    "price_per_m2_inner": 3237.36,
-    "price_per_m2_rural": 2698.15,
-    "average_price_per_m2": 5935.91
-  },
-  {
-    "city": "Toronto",
-    "price_per_m2_inner": 9206.18,
-    "price_per_m2_rural": 7524.30,
-    "average_price_per_m2": 8365.24
-  },
-  {
-    "city": "Vancouver",
-    "price_per_m2_inner": 9547.58,
-    "price_per_m2_rural": 6734.38,
-    "average_price_per_m2": 16281.96
-  },
-  {
-    "city": "Montreal",
-    "price_per_m2_inner": 6684.95,
-    "price_per_m2_rural": 4020.27,
-    "average_price_per_m2": 5352.61
-  },
-  {
-    "city": "San Francisco",
-    "price_per_m2_inner": 11073.37,
-    "price_per_m2_rural": 10296.84,
-    "average_price_per_m2": 10685.10
-  },
-  {
-    "city": "Houston",
-    "price_per_m2_inner": 2721.07,
-    "price_per_m2_rural": 1937.64,
-    "average_price_per_m2": 2329.35
-  },
-  {
-    "city": "Miami",
-    "price_per_m2_inner": 6467.99,
-    "price_per_m2_rural": 4013.37,
-    "average_price_per_m2": 5240.68
-  },
-  {
-    "city": "Atlanta",
-    "price_per_m2_inner": 2991.08,
-    "price_per_m2_rural": 2407.62,
-    "average_price_per_m2": 2699.35
-  },
-  {
-    "city": "Seattle",
-    "price_per_m2_inner": 6722.94,
-    "price_per_m2_rural": 5237.66,
-    "average_price_per_m2": 5980.30
-  },
-  {
-    "city": "Mexico City",
-    "price_per_m2_inner": 2949.40,
-    "price_per_m2_rural": 2240.49,
-    "average_price_per_m2": 2594.94
-  },
-  {
-    "city": "Guadalajara",
-    "price_per_m2_inner": 2426.77,
-    "price_per_m2_rural": 1634.46,
-    "average_price_per_m2": 2030.61
-  },
-  {
-    "city": "Monterrey",
-    "price_per_m2_inner": 2796.93,
-    "price_per_m2_rural": 3083.30,
-    "average_price_per_m2": 2940.11
-  },
-  {
-    "city": "Dallas",
-    "price_per_m2_inner": 3669.17,
-    "price_per_m2_rural": 2239.08,
-    "average_price_per_m2": 2954.12
-  },
-  {
-    "city": "Boston",
-    "price_per_m2_inner": 10360.14,
-    "price_per_m2_rural": 5861.45,
-    "average_price_per_m2": 8110.80
-  },
-  {
-    "city": "Denver",
-    "price_per_m2_inner": 4517.42,
-    "price_per_m2_rural": 3535.79,
-    "average_price_per_m2": 4026.60
-  },
-  {
-    "city": "Ottawa",
-    "price_per_m2_inner": 457.27,
-    "price_per_m2_rural": 417.93,
-    "average_price_per_m2": 437.60
-  },
-  {
-    "city": "Calgary",
-    "price_per_m2_inner": 300.72,
-    "price_per_m2_rural": 274.35,
-    "average_price_per_m2": 287.53
-  },
-  {
-    "city": "Edmonton",
-    "price_per_m2_inner": 278.76,
-    "price_per_m2_rural": 216.82,
-    "average_price_per_m2": 247.79
-  }
-]
-
+{
+  "cities": [
+    {
+      "city": "New York",
+      "price_per_m2_inner": 18631.26,
+      "price_per_m2_rural": 12887.36,
+      "average_price_per_m2": 15759.31
+    },
+    {
+      "city": "Los Angeles",
+      "price_per_m2_inner": 7642.50,
+      "price_per_m2_rural": 6831.70,
+      "average_price_per_m2": 14474.2
+    },
+    {
+      "city": "Chicago",
+      "price_per_m2_inner": 3237.36,
+      "price_per_m2_rural": 2698.15,
+      "average_price_per_m2": 5935.91
+    },
+    {
+      "city": "Toronto",
+      "price_per_m2_inner": 9206.18,
+      "price_per_m2_rural": 7524.30,
+      "average_price_per_m2": 8365.24
+    },
+    {
+      "city": "Vancouver",
+      "price_per_m2_inner": 9547.58,
+      "price_per_m2_rural": 6734.38,
+      "average_price_per_m2": 16281.96
+    },
+    {
+      "city": "Montreal",
+      "price_per_m2_inner": 6684.95,
+      "price_per_m2_rural": 4020.27,
+      "average_price_per_m2": 5352.61
+    },
+    {
+      "city": "San Francisco",
+      "price_per_m2_inner": 11073.37,
+      "price_per_m2_rural": 10296.84,
+      "average_price_per_m2": 10685.10
+    },
+    {
+      "city": "Houston",
+      "price_per_m2_inner": 2721.07,
+      "price_per_m2_rural": 1937.64,
+      "average_price_per_m2": 2329.35
+    },
+    {
+      "city": "Miami",
+      "price_per_m2_inner": 6467.99,
+      "price_per_m2_rural": 4013.37,
+      "average_price_per_m2": 5240.68
+    },
+    {
+      "city": "Atlanta",
+      "price_per_m2_inner": 2991.08,
+      "price_per_m2_rural": 2407.62,
+      "average_price_per_m2": 2699.35
+    },
+    {
+      "city": "Seattle",
+      "price_per_m2_inner": 6722.94,
+      "price_per_m2_rural": 5237.66,
+      "average_price_per_m2": 5980.30
+    },
+    {
+      "city": "Mexico City",
+      "price_per_m2_inner": 2949.40,
+      "price_per_m2_rural": 2240.49,
+      "average_price_per_m2": 2594.94
+    },
+    {
+      "city": "Guadalajara",
+      "price_per_m2_inner": 2426.77,
+      "price_per_m2_rural": 1634.46,
+      "average_price_per_m2": 2030.61
+    },
+    {
+      "city": "Monterrey",
+      "price_per_m2_inner": 2796.93,
+      "price_per_m2_rural": 3083.30,
+      "average_price_per_m2": 2940.11
+    },
+    {
+      "city": "Dallas",
+      "price_per_m2_inner": 3669.17,
+      "price_per_m2_rural": 2239.08,
+      "average_price_per_m2": 2954.12
+    },
+    {
+      "city": "Boston",
+      "price_per_m2_inner": 10360.14,
+      "price_per_m2_rural": 5861.45,
+      "average_price_per_m2": 8110.80
+    },
+    {
+      "city": "Denver",
+      "price_per_m2_inner": 4517.42,
+      "price_per_m2_rural": 3535.79,
+      "average_price_per_m2": 4026.60
+    },
+    {
+      "city": "Ottawa",
+      "price_per_m2_inner": 457.27,
+      "price_per_m2_rural": 417.93,
+      "average_price_per_m2": 437.60
+    },
+    {
+      "city": "Calgary",
+      "price_per_m2_inner": 300.72,
+      "price_per_m2_rural": 274.35,
+      "average_price_per_m2": 287.53
+    },
+    {
+      "city": "Edmonton",
+      "price_per_m2_inner": 278.76,
+      "price_per_m2_rural": 216.82,
+      "average_price_per_m2": 247.79
+    }
+  ]
+}
