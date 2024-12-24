@@ -1,4 +1,4 @@
-fetch('./city_data/north_america.json')
+fetch('./https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
     .then((response) => response.json())
     .then((data) => {
         const currentCitySelect = document.getElementById('current-city');
