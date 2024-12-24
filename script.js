@@ -1,4 +1,4 @@
-fetch('./data/north_america.json')
+fetch('./city_data/north_america.json')
     .then((response) => response.json())
     .then((data) => {
         const currentCitySelect = document.getElementById('current-city');
