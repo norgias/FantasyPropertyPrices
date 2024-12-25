@@ -1,14 +1,18 @@
-// Fetch the data and populate dropdown menus
-fetch('./https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
-    .then(response => response.json())
+// Adjusted fetch URL
+fetch('./city_data/north_america.json') // Ensure the path matches your file structure
+    .then(response => {
+        if (!response.ok) throw new Error('Failed to load JSON data');
+        return response.json();
+    })
     .then(data => {
         const currentCitySelect = document.getElementById('current-city');
         const destinationCitySelect = document.getElementById('destination-city');
 
         data.cities.forEach(city => {
+            // Create options for both dropdowns
             const option = document.createElement('option');
-            option.value = city.city; // Match JSON property name
-            option.textContent = city.city; // Match JSON property name
+            option.value = city.city;
+            option.textContent = city.city;
             currentCitySelect.appendChild(option);
 
             const destinationOption = option.cloneNode(true);
@@ -31,8 +35,11 @@ document.getElementById('calculate').addEventListener('click', () => {
     }
 
     // Fetch JSON data for calculations
-    fetch('./https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
-        .then(response => response.json())
+    fetch('./city_data/north_america.json')
+        .then(response => {
+            if (!response.ok) throw new Error('Failed to load JSON data');
+            return response.json();
+        })
         .then(data => {
             const currentCityData = data.cities.find(city => city.city === currentCity);
             const destinationCityData = data.cities.find(city => city.city === destinationCity);
