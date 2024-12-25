@@ -45,7 +45,7 @@ document.getElementById('calculate').addEventListener('click', () => {
     }
 
     // Fetch data again for calculation
-    fetch('./north_america.json')
+    fetch('./city_data/north_america.json')
         .then((response) => {
             if (!response.ok) throw new Error('Failed to load JSON data');
             return response.json();
