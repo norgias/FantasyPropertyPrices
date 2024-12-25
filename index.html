@@ -9,6 +9,8 @@
 <body>
     <div class="container">
         <h1>Fantasy Property Prices</h1>
+        
+        <!-- Input Section -->
         <div>
             <label for="current-city">Your Current City:</label>
             <select id="current-city">
@@ -28,9 +30,16 @@
             </select>
         </div>
 
+        <!-- Button -->
         <button id="calculate">See Your Results</button>
-
-        <div id="results"></div>
+        
+        <!-- Results Section -->
+        <div id="results-container">
+            <h2>Results:</h2>
+            <div id="results">
+                <!-- Results will be dynamically inserted here -->
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
