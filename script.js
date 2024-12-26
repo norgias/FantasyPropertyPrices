@@ -1,5 +1,5 @@
 // Fetch JSON data and populate city dropdowns
-fetch('norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
+fetch('https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
     .then((response) => {
         if (!response.ok) throw new Error('Failed to load JSON data');
         return response.json();
@@ -8,22 +8,21 @@ fetch('norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
         const currentCitySelect = document.getElementById('current-city');
         const destinationCitySelect = document.getElementById('destination-city');
 
-        if (!data || !data.cities) {
-            console.error('Invalid JSON structure. No "cities" array found.');
+        // Verify data structure
+        if (!data.cities || !Array.isArray(data.cities)) {
+            console.error('Invalid JSON structure: no "cities" array found.');
             return;
         }
 
+        // Populate dropdown menus
         data.cities.forEach((city) => {
-            // Populate <option> elements for both dropdowns
-            const currentOption = document.createElement('option');
-            currentOption.value = city.city; // Set value as city name
-            currentOption.textContent = city.city; // Set text
-            currentCitySelect.appendChild(currentOption);
+            const optionElement = document.createElement('option');
+            optionElement.value = city.city;
+            optionElement.textContent = city.city;
 
-            const destinationOption = document.createElement('option');
-            destinationOption.value = city.city;
-            destinationOption.textContent = city.city;
-            destinationCitySelect.appendChild(destinationOption);
+            // Add option to both current and destination dropdowns
+            currentCitySelect.appendChild(optionElement.cloneNode(true));
+            destinationCitySelect.appendChild(optionElement);
         });
     })
     .catch((error) => {
@@ -32,18 +31,20 @@ fetch('norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
             '<p>Could not load city data. Please try again later.</p>';
     });
 
-// Event listener for the "See Your Results" button
+// Handle the "See Your Results" button click
 document.getElementById('calculate').addEventListener('click', () => {
     const currentCity = document.getElementById('current-city').value;
     const destinationCity = document.getElementById('destination-city').value;
     const houseSize = parseFloat(document.getElementById('house-size').value);
 
+    // Validate inputs
     if (!currentCity || !destinationCity || isNaN(houseSize) || houseSize <= 0) {
         document.getElementById('results').innerHTML =
             '<p>Please provide valid inputs for all fields.</p>';
         return;
     }
 
+    // Fetch city data again for calculation
     fetch('https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
         .then((response) => {
             if (!response.ok) throw new Error('Failed to load JSON data');
@@ -59,14 +60,21 @@ document.getElementById('calculate').addEventListener('click', () => {
                 return;
             }
 
+            // Calculate and display results
             const currentPrice = currentCityData.average_price_per_m2 * houseSize;
             const destinationPrice = destinationCityData.average_price_per_m2 * houseSize;
             const priceDifference = destinationPrice - currentPrice;
 
             document.getElementById('results').innerHTML = `
-                <p>A house of <strong>${houseSize}m²</strong> in <strong>${currentCity}</strong> costs <strong>$${currentPrice.toFixed(2)}</strong> on average.</p>
-                <p>The same size house in <strong>${destinationCity}</strong> would cost <strong>$${destinationPrice.toFixed(2)}</strong>.</p>
-                <p>The price difference is <strong>$${priceDifference.toFixed(2)}</strong> (${priceDifference > 0 ? 'more expensive' : 'cheaper'}).</p>
+                <p>A house of <strong>${houseSize}m²</strong> in <strong>${currentCity}</strong> costs <strong>$${currentPrice.toFixed(
+                2
+            )}</strong> on average.</p>
+                <p>The same size house in <strong>${destinationCity}</strong> would cost <strong>$${destinationPrice.toFixed(
+                2
+            )}</strong>.</p>
+                <p>The price difference is <strong>$${priceDifference.toFixed(
+                2
+            )}</strong> (${priceDifference > 0 ? 'more expensive' : 'cheaper'}).</p>
             `;
         })
         .catch((error) => {
