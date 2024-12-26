@@ -86,11 +86,11 @@ document.getElementById('calculate').addEventListener('click', () => {
                     <li><strong>Rural area cost:</strong> $${formatNumber(currentRuralCost)}</li>
                     <li><strong>Average cost:</strong> $${formatNumber(currentAverageCost)}</li>
                 </ul>
-                <p>The same size house in <strong>${destinationCity}</strong>:</p>
+                <p>The same sized house in <strong>${destinationCity} costs roughly...</strong>:</p>
                 <ul>
-                    <li><strong>Inner city cost:</strong> $${formatNumber(destinationInnerCost)}</li>
-                    <li><strong>Rural area cost:</strong> $${formatNumber(destinationRuralCost)}</li>
-                    <li><strong>Average cost:</strong> $${formatNumber(destinationAverageCost)}</li>
+                    <li>$${formatNumber(destinationInnerCost)} <strong>In the inner city</strong></li>
+                    <li>$${formatNumber(destinationRuralCost)} <strong>In the surrounding areas</strong></li>
+                    <strong>And is</strong> $${formatNumber(destinationAverageCost)}<strong>on average</strong>
                 </ul>
                 <p>The average price difference is <strong>$${formatNumber(Math.abs(priceDifference))}</strong> (${priceDifference > 0 ? 'more expensive' : 'cheaper'}).</p>
             `;
