@@ -1,5 +1,5 @@
 // Fetch JSON data and populate city dropdowns
-fetch('https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
+fetch('city_data/north_america.json')
     .then((response) => {
         if (!response.ok) throw new Error('Failed to load JSON data');
         return response.json();
