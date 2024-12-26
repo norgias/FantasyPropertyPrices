@@ -80,17 +80,17 @@ document.getElementById('calculate').addEventListener('click', () => {
 
             // Display results
             document.getElementById('results').innerHTML = `
-                <p>A house of <strong>${houseSize}m²</strong> in <strong>${currentCity}</strong>:</p>
+                <p>A house of <strong>${houseSize}m²</strong> in <strong>${currentCity}</strong> costs approximatley:</p>
                 <ul>
                     <li><strong>Inner city cost:</strong> $${formatNumber(currentInnerCost)}</li>
                     <li><strong>Rural area cost:</strong> $${formatNumber(currentRuralCost)}</li>
                     <li><strong>Average cost:</strong> $${formatNumber(currentAverageCost)}</li>
-                </ul>
+                </ul> 
                 <p>The same sized house in <strong>${destinationCity} costs roughly...</strong>:</p>
                 <ul>
                     <li>$${formatNumber(destinationInnerCost)} <strong>In the inner city</strong></li>
                     <li>$${formatNumber(destinationRuralCost)} <strong>In the surrounding areas</strong></li>
-                    <strong>And is</strong> $${formatNumber(destinationAverageCost)}<strong>on average</strong>
+                    <strong>And is</strong> $${formatNumber(destinationAverageCost)} <strong>on average</strong>
                 </ul>
                 <p>The average price difference is <strong>$${formatNumber(Math.abs(priceDifference))}</strong> (${priceDifference > 0 ? 'more expensive' : 'cheaper'}).</p>
             `;
