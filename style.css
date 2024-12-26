@@ -34,7 +34,7 @@ nav {
 nav h1 {
     font-size: 24px;
     font-weight: bold;
-    color: white;
+    color: #87CEEB;
     text-align: center;
     margin: 10px 0;
 }
@@ -48,6 +48,7 @@ footer {
     background-color: #87CEEB;
     text-align: center;
     padding: 10px 0;
+    z-index: 10000;
     box-shadow: 0px -4px 6px black;
 }
 
