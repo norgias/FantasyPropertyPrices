@@ -92,7 +92,7 @@ document.getElementById('calculate').addEventListener('click', () => {
                     <li>$${formatNumber(destinationRuralCost)} <strong>In the surrounding areas</strong></li>
                     <strong>And is</strong> $${formatNumber(destinationAverageCost)} <strong>on average</strong>
                 </ul>
-                <p>The average price difference is <strong>$${formatNumber(Math.abs(priceDifference))}</strong> (${priceDifference > 0 ? 'more expensive' : 'cheaper'}).</p>
+                <p>The average price difference is <strong>$${formatNumber(Math.abs(priceDifference))}</strong> making it (${priceDifference > 0 ? 'more expensive' : 'cheaper'}) to livin in <strong>${destinationCity}</strong>.</p>
             `;
         })
         .catch((error) => {
