@@ -97,6 +97,31 @@ button {
 button:hover {
     background-color: #00aaff;
 }
+/* Ad Space Styling */
+.ad-space {
+    text-align: center;
+    margin: 20px 0;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px dashed #ccc;
+}
+
+.top-ad {
+    margin-top: 20px; /* Space below navigation bar */
+}
+
+.mid-ad {
+    margin: 20px 0;
+}
+
+.bottom-ad {
+    margin-bottom: 20px;
+}
+
+
+
+
+
 
 /* Results Section */
 #results-container {
