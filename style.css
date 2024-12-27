@@ -46,6 +46,7 @@ nav h1 {
 footer {
     position: fixed;
     bottom: 0;
+    height: 20px;
     left: 0;
     width: 100%;
     background-color: #87CEEB;
@@ -66,6 +67,9 @@ footer {
 form {
     background: white;
     padding: 20px;
+    margin-left: -20px;
+    margin-right: 20px;
+    max-width: 100%;
     border-radius: 10px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
