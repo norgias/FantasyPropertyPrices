@@ -258,5 +258,102 @@
       "price_per_m2_rural": null,
       "average_price_per_m2": null
     }
+        {
+      "city": "Yerevan",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Baku",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Tbilisi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Ashgabat",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Bishkek",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Dushanbe",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Tashkent",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Astana",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Almaty",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Ankara",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Istanbul",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Yekaterinburg",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Novosibirsk",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Omsk",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Perm",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Ufa",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    }
   ]
-}
+}  
+  
