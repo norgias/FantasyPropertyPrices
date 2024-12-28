@@ -30,8 +30,12 @@ nav {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
     padding: 10px 0;
     z-index: 1000;
-    text-align: center;
+    display: flex;
+    justify-content: space-between; /* Ensures proper spacing */
+    align-items: center; /* Vertically centers items */
+    padding: 10px 20px; /* Adds some breathing room inside the nav */
 }
+
 
 
 nav h1 {
@@ -40,6 +44,12 @@ nav h1 {
     color: white; /* White text */
     font-family: Arial, sans-serif; /* Arial font */
     margin: 0;
+}
+
+nav img {
+    height: 40px; /* Adjust this size as needed */
+    margin-right: 20px; /* Adds spacing from the edge */
+    cursor: pointer; /* Optional: makes the logo look interactive */
 }
 
 /* Footer Bar */
@@ -144,8 +154,18 @@ h2 {
         padding-bottom: 50px;
     }
 
+     nav {
+        flex-direction: row; /* Ensures items remain in a single row */
+        padding: 10px; /* Reduces padding for smaller screens */
+    }
+
     nav h1 {
         font-size: 20px;
+    }
+
+      nav img {
+        height: 30px; /* Reduces image size slightly */
+        margin-right: 10px; /* Adjusts spacing for smaller screens */
     }
 
     button {
