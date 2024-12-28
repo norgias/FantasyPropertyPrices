@@ -48,7 +48,7 @@ nav h1 {
 
 nav img {
     height: 40px; /* Adjust this size as needed */
-    margin-right: 20px; /* Adds spacing from the edge */
+    margin-right: 40px; /* Adds spacing from the edge */
     cursor: pointer; /* Optional: makes the logo look interactive */
 }
 
