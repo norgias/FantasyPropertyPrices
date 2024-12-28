@@ -119,6 +119,144 @@
       "price_per_m2_inner": 278.76,
       "price_per_m2_rural": 216.82,
       "average_price_per_m2": 247.79
+    },
+    {
+      "city": "Bangkok",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Ho Chi Minh City",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Jakarta",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Kuala Lumpur",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Manila",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Singapore",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Hanoi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Phnom Penh",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Yangon",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Dhaka",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Colombo",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Male",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Bandar Seri Begawan",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Dubai",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Abu Dhabi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Riyadh",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Jeddah",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Kuwait City",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Muscat",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Manama",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Tehran",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Doha",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Istanbul",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
     }
   ]
 }
