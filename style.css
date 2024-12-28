@@ -165,7 +165,7 @@ h2 {
 
       nav img {
         height: 30px; /* Reduces image size slightly */
-        margin-right: 10px; /* Adjusts spacing for smaller screens */
+        margin-right: 30px; /* Adjusts spacing for smaller screens */
     }
 
     button {
