@@ -354,6 +354,96 @@
       "price_per_m2_rural": null,
       "average_price_per_m2": null
     }
+    {
+      "city": "Beijing",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Shanghai",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Tokyo",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Osaka",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Seoul",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Busan",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Pyongyang",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Shenyang",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Harbin",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Chongqing",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Tianjin",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Hong Kong",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Taipei",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Kaohsiung",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Ulaanbaatar",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    }
   ]
-}  
+}
   
