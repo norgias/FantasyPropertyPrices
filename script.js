@@ -1,5 +1,5 @@
 // Fetch JSON data and populate city dropdowns
-fetch('https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
+fetch('https://www.fantasyrpopertyprices.com/FantasyPropertyPrices/city_data/north_america.json')
     .then((response) => {
         if (!response.ok) throw new Error('Failed to load JSON data');
         return response.json();
@@ -50,7 +50,7 @@ document.getElementById('calculate').addEventListener('click', () => {
     }
 
     // Fetch city data again for calculation
-    fetch('https://norgias.github.io/FantasyPropertyPrices/city_data/north_america.json')
+    fetch('https://www.fantasypropertyprices.com/FantasyPropertyPrices/city_data/north_america.json')
         .then((response) => {
             if (!response.ok) throw new Error('Failed to load JSON data');
             return response.json();
