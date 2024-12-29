@@ -521,6 +521,132 @@
       "price_per_m2_inner": null,
       "price_per_m2_rural": null,
       "average_price_per_m2": null
+    },
+    {
+      "city": "São Paulo",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Rio de Janeiro",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Buenos Aires",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Bogotá",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Lima",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Santiago",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Caracas",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Quito",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "La Paz",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Montevideo",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Asunción",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Guayaquil",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Medellín",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Cali",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Recife",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Salvador",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Fortaleza",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Brasília",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Curitiba",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Manaus",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Maracaibo",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
     }
   ]
 }
