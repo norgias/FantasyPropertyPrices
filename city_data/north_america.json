@@ -140,201 +140,195 @@
     },
     {
       "city": "Kuala Lumpur",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 3021.54,
+      "price_per_m2_rural": 1388.63,
+      "average_price_per_m2": 2205.08
     },
     {
       "city": "Manila",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4014.30,
+      "price_per_m2_rural": 2776.91,
+      "average_price_per_m2": 3395.60
     },
     {
       "city": "Singapore",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 21346.81,
+      "price_per_m2_rural": 14166.04,
+      "average_price_per_m2": 17756.42
     },
     {
       "city": "Yerevan",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 3369.88,
+      "price_per_m2_rural": 1560.21,
+      "average_price_per_m2": 2465.04
     },
     {
       "city": "Tbilisi",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1992.11,
+      "price_per_m2_rural": 1981.05,
+      "average_price_per_m2": 1986.58
     },
     {
       "city": "Tokyo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 10260.79,
+      "price_per_m2_rural": 4853.57,
+      "average_price_per_m2": 7557.18
     },
     {
       "city": "Shanghai",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 15783.23,
+      "price_per_m2_rural": 8138.32,
+      "average_price_per_m2": 11960.77
     },
     {
       "city": "Seoul",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 18818.88,
+      "price_per_m2_rural": 10738.97,
+      "average_price_per_m2": 14778.92
     },
     {
       "city": "Beijing",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
-    },
-    {
-      "city": "Pyongyang",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 14420.85,
+      "price_per_m2_rural": 6860.89,
+      "average_price_per_m2": 10640.87
     },
     {
       "city": "Hanoi",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2852.30,
+      "price_per_m2_rural": 1633.43,
+      "average_price_per_m2": 2242.86
     },
     {
       "city": "New Delhi",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2202.36,
+      "price_per_m2_rural": 1228.88,
+      "average_price_per_m2": 1715.62
     },
     {
       "city": "Mumbai",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 7124.10,
+      "price_per_m2_rural": 3367.09,
+      "average_price_per_m2": 5245.59
     },
     {
       "city": "Chennai",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1903.34,
+      "price_per_m2_rural": 777.19,
+      "average_price_per_m2": 1340.26
     },
     {
       "city": "Bangalore",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2172.23,
+      "price_per_m2_rural": 1126.26,
+      "average_price_per_m2": 1649.24
     },
     {
       "city": "Karachi",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 536.18,
+      "price_per_m2_rural": 350.19,
+      "average_price_per_m2": 443.18
     },
     {
       "city": "Lahore",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 628.64,
+      "price_per_m2_rural": 586.07,
+      "average_price_per_m2": 607.35
     },
     {
       "city": "Islamabad",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 948.40,
+      "price_per_m2_rural": 739.53,
+      "average_price_per_m2": 843.96
     },
     {
       "city": "Dhaka",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1000.56,
+      "price_per_m2_rural": 542.50,
+      "average_price_per_m2": 771.53
     },
     {
       "city": "Colombo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1849.98,
+      "price_per_m2_rural": 1560.29,
+      "average_price_per_m2": 1705.13
     },
     {
       "city": "Kathmandu",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2291.74,
+      "price_per_m2_rural": 1180.83,
+      "average_price_per_m2": 1736.28
     },
     {
       "city": "Kabul",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 478.29,
+      "price_per_m2_rural": 212.22,
+      "average_price_per_m2": 345.25
     },
     {
       "city": "Riyadh",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2271.62,
+      "price_per_m2_rural": 1606.13,
+      "average_price_per_m2": 1938.87
     },
     {
       "city": "Jeddah",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1989.91,
+      "price_per_m2_rural": 971.00,
+      "average_price_per_m2": 1480.45
     },
     {
       "city": "Dubai",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 6368.27,
+      "price_per_m2_rural": 3497.43,
+      "average_price_per_m2": 4932.85
     },
     {
       "city": "Abu Dhabi",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4970.48,
+      "price_per_m2_rural": 4038.50,
+      "average_price_per_m2": 4508.49
     },
     {
       "city": "Doha",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4815.70,
+      "price_per_m2_rural": 3585.67,
+      "average_price_per_m2": 4200.68
     },
     {
       "city": "Kuwait City",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 6719.88,
+      "price_per_m2_rural": 2999.80,
+      "average_price_per_m2": 4859.84
     },
     {
       "city": "Manama",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2572.15,
+      "price_per_m2_rural": 2298.14,
+      "average_price_per_m2": 2435.14
     },
     {
       "city": "Muscat",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1615.30,
+      "price_per_m2_rural": 1265.78,
+      "average_price_per_m2": 1440.54
     },
     {
       "city": "Jerusalem",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 12817.45,
+      "price_per_m2_rural": 8445.40,
+      "average_price_per_m2": 10631.42
     },
     {
       "city": "Amman",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1298.24,
+      "price_per_m2_rural": 777.21,
+      "average_price_per_m2": 1037.72
     },
     {
       "city": "Baghdad",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 3009.73,
+      "price_per_m2_rural": 1073.89,
+      "average_price_per_m2": 2041.81
     },
      {
       "city": "London",
