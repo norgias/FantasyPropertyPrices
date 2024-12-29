@@ -122,21 +122,21 @@
     },
     {
       "city": "Bangkok",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 5623.73,
+      "price_per_m2_rural": 2590.32,
+      "average_price_per_m2": 4107.02
     },
     {
       "city": "Ho Chi Minh City",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4221.53,
+      "price_per_m2_rural": 2050.68,
+      "average_price_per_m2": 3136.10
     },
     {
       "city": "Jakarta",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1975.42,
+      "price_per_m2_rural": 939.46,
+      "average_price_per_m2": 1457.44
     },
     {
       "city": "Kuala Lumpur",
