@@ -180,5 +180,164 @@
       "price_per_m2_rural": null,
       "average_price_per_m2": null
     }
+    {
+  "cities": [
+    {
+      "city": "Seoul",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Beijing",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Pyongyang",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Hanoi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "New Delhi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Mumbai",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Chennai",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Bangalore",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Karachi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Lahore",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Islamabad",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Dhaka",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Colombo",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Kathmandu",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Kabul",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Riyadh",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Jeddah",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Dubai",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Abu Dhabi",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Doha",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Kuwait City",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Manama",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Muscat",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Jerusalem",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Amman",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    },
+    {
+      "city": "Baghdad",
+      "price_per_m2_inner": null,
+      "price_per_m2_rural": null,
+      "average_price_per_m2": null
+    }
   ]
 }
+
