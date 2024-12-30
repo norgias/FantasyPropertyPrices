@@ -256,6 +256,9 @@
       "city": "Kathmandu",
       "price_per_m2_inner": 2291.74,
       "price_per_m2_rural": 1180.83,
+
+
+```json
       "average_price_per_m2": 1736.28
     },
     {
@@ -330,7 +333,7 @@
       "price_per_m2_rural": 1073.89,
       "average_price_per_m2": 2041.81
     },
-     {
+    {
       "city": "London",
       "price_per_m2_inner": 19683.21,
       "price_per_m2_rural": 10533.53,
@@ -644,4 +647,3 @@
     }
   ]
 }
-
