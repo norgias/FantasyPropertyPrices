@@ -332,111 +332,111 @@
     },
      {
       "city": "London",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 19683.21,
+      "price_per_m2_rural": 10533.53,
+      "average_price_per_m2": 15108.37
     },
     {
       "city": "Paris",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 12592.06,
+      "price_per_m2_rural": 8886.00,
+      "average_price_per_m2": 10739.03
     },
     {
       "city": "Berlin",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 8215.46,
+      "price_per_m2_rural": 5890.37,
+      "average_price_per_m2": 7052.91
     },
     {
       "city": "Madrid",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 6649.90,
+      "price_per_m2_rural": 3966.05,
+      "average_price_per_m2": 5307.97
     },
     {
       "city": "Rome",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 6962.97,
+      "price_per_m2_rural": 3425.52,
+      "average_price_per_m2": 5194.24
     },
     {
       "city": "Vienna",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 10101.95,
+      "price_per_m2_rural": 6307.17,
+      "average_price_per_m2": 8204.56
     },
     {
       "city": "Amsterdam",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 9856.59,
+      "price_per_m2_rural": 7219.66,
+      "average_price_per_m2": 8538.12
     },
     {
       "city": "Prague",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 7481.11,
+      "price_per_m2_rural": 5260.91,
+      "average_price_per_m2": 6371.01
     },
     {
       "city": "Warsaw",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 5848.85,
+      "price_per_m2_rural": 3897.06,
+      "average_price_per_m2": 4872.95
     },
     {
       "city": "Stockholm",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 9912.34,
+      "price_per_m2_rural": 5420.52,
+      "average_price_per_m2": 7666.43
     },
     {
       "city": "Oslo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 8485.21,
+      "price_per_m2_rural": 6174.00,
+      "average_price_per_m2": 7329.60
     },
     {
       "city": "Copenhagen",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 7884.32,
+      "price_per_m2_rural": 5451.59,
+      "average_price_per_m2": 6667.95
     },
     {
       "city": "Helsinki",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 8014.13,
+      "price_per_m2_rural": 4794.50,
+      "average_price_per_m2": 6404.31
     },
     {
       "city": "Dublin",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 7203.61,
+      "price_per_m2_rural": 5795.30,
+      "average_price_per_m2": 6499.45
     },
     {
       "city": "Lisbon",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 6648.54,
+      "price_per_m2_rural": 3756.39,
+      "average_price_per_m2": 5202.46
     },
     {
       "city": "Brussels",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4604.59,
+      "price_per_m2_rural": 4132.96,
+      "average_price_per_m2": 4368.77
     },
     {
       "city": "Zurich",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 24939.71,
+      "price_per_m2_rural": 17081.01,
+      "average_price_per_m2": 21010.36
     },
     {
       "city": "Athens",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 3253.29,
+      "price_per_m2_rural": 3041.40,
+      "average_price_per_m2": 3147.34
     },
     {
       "city": "Budapest",
