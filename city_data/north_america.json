@@ -440,81 +440,81 @@
     },
     {
       "city": "Budapest",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 3881.15,
+      "price_per_m2_rural": 2524.15,
+      "average_price_per_m2": 3202.65
     },
     {
       "city": "Belgrade",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4205.07
+      "price_per_m2_rural": 2623.75,
+      "average_price_per_m2": 3414.41
     },
     {
       "city": "Moscow",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 5969.89,
+      "price_per_m2_rural": 2970.98,
+      "average_price_per_m2": 4470.43
     },
     {
       "city": "Saint Petersburg",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2940.60,
+      "price_per_m2_rural": 1962.47,
+      "average_price_per_m2": 2451.53
     },
     {
       "city": "Kiev",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2230.28,
+      "price_per_m2_rural": 1264.11,
+      "average_price_per_m2": 1747.19
     },
     {
       "city": "Sofia",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 3092.39,
+      "price_per_m2_rural": 2035.86,
+      "average_price_per_m2": 2564.12
     },
     {
       "city": "Zagreb",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4188.91,
+      "price_per_m2_rural": 2971.27,
+      "average_price_per_m2": 3580.09
     },
     {
       "city": "Sarajevo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2924.23,
+      "price_per_m2_rural": 1856.04,
+      "average_price_per_m2": 2390.13
     },
     {
       "city": "Ljubljana",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 5327.88,
+      "price_per_m2_rural": 4080.75,
+      "average_price_per_m2": 4704.31
     },
     {
       "city": "Vilnius",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 5250.25,
+      "price_per_m2_rural": 3258.66,
+      "average_price_per_m2": 4254.45
     },
     {
       "city": "Riga",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2710.67,
+      "price_per_m2_rural": 1711.40,
+      "average_price_per_m2": 2211.03
     },
     {
       "city": "Tallinn",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 4693.35,
+      "price_per_m2_rural": 3167.52,
+      "average_price_per_m2": 3930.43
     },
     {
       "city": "Reykjavik",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 6260.57,
+      "price_per_m2_rural": 5248.12,
+      "average_price_per_m2": 5754.34
     },
     {
       "city": "São Paulo",
