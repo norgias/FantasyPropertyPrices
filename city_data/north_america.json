@@ -446,7 +446,7 @@
     },
     {
       "city": "Belgrade",
-      "price_per_m2_inner": 4205.07
+      "price_per_m2_inner": 4205.07,
       "price_per_m2_rural": 2623.75,
       "average_price_per_m2": 3414.41
     },
