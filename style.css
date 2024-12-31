@@ -19,6 +19,18 @@ body {
     padding-top: 70px; /* Ensure content doesn't overlap with navbar */
     padding-bottom: 40px; /* Ensure content doesn't overlap with footer */
 }
+.instructions {
+    text-align: center; /* Centers the text */
+    max-width: 600px; /* Limits the text width for readability */
+    line-height: 1.6; /* Improves readability by spacing lines */
+    font-family: Arial, sans-serif; /* Sets a clean, readable font */
+    font-size: 16px; /* Adjusts font size for readability */
+    color: #333; /* Sets text color */
+    background-color: #f9f9f9; /* Optional: Adds a subtle background */
+    padding: 20px; /* Adds padding for spacing */
+    border-radius: 8px; /* Optional: Rounds corners for a polished look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a slight shadow */
+}
 
 /* Navigation Bar */
 nav {
