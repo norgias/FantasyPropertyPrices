@@ -29,7 +29,7 @@ body {
     line-height: 1.6; /* Improves readability by spacing lines */
     font-family: Arial, sans-serif; /* Sets a clean, readable font */
     font-size: 16px; /* Adjusts font size for readability */
-    color: #f5f5f5; /* Sets text color */
+    color: white; /* Sets text color */
     background-color: #87CEEB; /* Optional: Adds a subtle background */
     padding: 20px; /* Adds padding for spacing */
     border-radius: 8px; /* Optional: Rounds corners for a polished look */
