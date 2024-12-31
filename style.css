@@ -168,6 +168,8 @@ h2 {
    
     .instructions {
        margin: 0, 15px;
+       max-width: 70%;
+    
    }
     
     body {
