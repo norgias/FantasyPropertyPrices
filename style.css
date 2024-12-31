@@ -20,6 +20,9 @@ body {
     padding-bottom: 40px; /* Ensure content doesn't overlap with footer */
 }
 .instructions {
+    display: flex; /* Centers the content */
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
     text-align: center; /* Centers the text */
     max-width: 600px; /* Limits the text width for readability */
     line-height: 1.6; /* Improves readability by spacing lines */
