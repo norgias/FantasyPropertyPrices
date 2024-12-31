@@ -518,129 +518,137 @@
     },
     {
       "city": "São Paulo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2259.00,
+      "price_per_m2_rural": 1482.89,
+      "average_price_per_m2": 1870.94
     },
     {
       "city": "Rio de Janeiro",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1733.28,
+      "price_per_m2_rural": 1070.52,
+      "average_price_per_m2": 1401.90
     },
     {
       "city": "Buenos Aires",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2608.60,
+      "price_per_m2_rural": 1974.09,
+      "average_price_per_m2": 2291.34
     },
     {
       "city": "Bogotá",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1682.58,
+      "price_per_m2_rural": 1252.95,
+      "average_price_per_m2": 1467.76
     },
     {
       "city": "Lima",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1398.24,
+      "price_per_m2_rural": 1245.81,
+      "average_price_per_m2": 1322.02
     },
     {
       "city": "Santiago",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2636.07,
+      "price_per_m2_rural": 2711.63,
+      "average_price_per_m2": 2673.85
     },
     {
       "city": "Caracas",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 880,
+      "price_per_m2_rural": 835.84,
+      "average_price_per_m2": 857.92
     },
     {
       "city": "Quito",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1666.67,
+      "price_per_m2_rural": 1250,
+      "average_price_per_m2": 1458.33
     },
     {
-      "city": "La Paz",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "city": "La Paz Bolivia",
+      "price_per_m2_inner": 1275.34,
+      "price_per_m2_rural": 825.99,
+      "average_price_per_m2": 1050.66
     },
     {
       "city": "Montevideo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2735.78,
+      "price_per_m2_rural": 2567.75,
+      "average_price_per_m2": 2651.76
     },
     {
       "city": "Asunción",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1266.37,
+      "price_per_m2_rural": 790.54,
+      "average_price_per_m2": 2056.91
     },
     {
       "city": "Guayaquil",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1000.00,
+      "price_per_m2_rural": 2100.00,
+      "average_price_per_m2": 1550
     },
     {
       "city": "Medellín",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1585.73,
+      "price_per_m2_rural": 1371.74,
+      "average_price_per_m2": 1478.78
     },
     {
       "city": "Cali",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 916.08,
+      "price_per_m2_rural": 880.57,
+      "average_price_per_m2": 898.32
     },
     {
       "city": "Recife",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1269.65,
+      "price_per_m2_rural": 716.26,
+      "average_price_per_m2": 992.95
     },
     {
       "city": "Salvador",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1035.65,
+      "price_per_m2_rural": 574.63,
+      "average_price_per_m2": 805.14
     },
     {
       "city": "Fortaleza",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1203.41,
+      "price_per_m2_rural": 668.28,
+      "average_price_per_m2": 1871.69
     },
     {
       "city": "Brasília",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2125.86,
+      "price_per_m2_rural": 1307.39,
+      "average_price_per_m2": 1716.62
     },
     {
       "city": "Curitiba",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1688.37,
+      "price_per_m2_rural": 1147.54,
+      "average_price_per_m2": 1416.45
     },
     {
       "city": "Manaus",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 1292.24,
+      "price_per_m2_rural": 769.91,
+      "average_price_per_m2": 1031.07
     },
     {
       "city": "Maracaibo",
-      "price_per_m2_inner": null,
-      "price_per_m2_rural": null,
-      "average_price_per_m2": null
+      "price_per_m2_inner": 2152.78,
+      "price_per_m2_rural": 1076.39,
+      "average_price_per_m2": 1614.58
+    },
+    {
+      "city": "Georgetown Guyana",
+      "price_per_m2_inner": 3903.96,
+      "price_per_m2_rural": 1727.46,
+      "average_price_per_m2": 2815.71
     }
+
   ]
+
 }
